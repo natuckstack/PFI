@@ -4,3 +4,5 @@ El presente informe evalúa el incremento de Bs 1,007,764,154 registrado en el p
 Mientras que los gastos de administración y el costo de talento humano exhiben un crecimiento controlado del 15.18% interanual (pasando de Bs 253.69 millones a Bs 292.21 millones, por debajo del promedio de su categoría), la subcuenta cambiaria escaló un 103.38%, pasando de Bs 866.02 millones en 2024 a Bs 1,761.32 millones en 2025. De mantenerse esta trayectoria inercial sin mecanismos de mitigación, el gasto exclusivo por arbitraje y tipo de cambio alcanzará los Bs 3,582.20 millones en 2026, comprometiendo severamente la liquidez y rentabilidad institucional.
 
 La tesis central respaldada por los datos indica que la solución requiere intervenir de inmediato la gestión de tesorería mediante un programa de cobertura cambiaria (hedging), límites de exposición diaria en divisas y la renegociación tarifaria en cámara de compensación (+72.48% YoY). Esta hoja de ruta permitirá contener al menos el 40% de la pérdida proyectada (Bs 728 millones) en un plazo de 90 días sin afectar la dotación ni el desempeño del capital humano.
+# Link al Tablero:
+https://gastosoperativosdb.netlify.app
